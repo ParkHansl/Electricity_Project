@@ -13,8 +13,8 @@ LS 전력 데이터를 활용하여 대시보드를 제작하는 팀 프로젝�
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/k1minchae">
-        <img src="https://github.com/k1minchae.png" width="100px;" alt="k1minchae"/>
+      <a href="https://github.com/bokyung13">
+        <img src="https://github.com/bokyung13.png" width="100px;" alt="bokyung13"/>
         <br />
         <sub><b>김보경</b></sub>
       </a>
@@ -24,10 +24,20 @@ LS 전력 데이터를 활용하여 대시보드를 제작하는 팀 프로젝�
       배포
     </td>
     <td align="center">
-      <a href="https://github.com/soohyhy">
-        <img src="https://github.com/soohyhy.png" width="100px;" alt="soohyhy"/>
+      <a href="https://github.com/yewon-kim-alt">
+        <img src="https://github.com/yewon-kim-alt.png" width="100px;" alt="yewon-kim-alt"/>
         <br />
         <sub><b>김예원</b></sub>
+      </a>
+      <br />
+      EDA / 데이터 전처리<br />
+      streamlit p.1
+    </td>
+    <td align="center">
+      <a href="https://github.com/wonjeongnam">
+        <img src="https://github.com/wonjeongnam.png" width="100px;" alt="wonjeongnam"/>
+        <br />
+        <sub><b>남원정</b></sub>
       </a>
       <br />
       EDA / 데이터 전처리<br />
@@ -37,16 +47,6 @@ LS 전력 데이터를 활용하여 대시보드를 제작하는 팀 프로젝�
       <a href="https://github.com/ParkHansl">
         <img src="https://github.com/ParkHansl.png" width="100px;" alt="ParkHansl"/>
         <br />
-        <sub><b>남원정</b></sub>
-      </a>
-      <br />
-      EDA / 데이터 전처리<br />
-      streamlit p.1
-    </td>
-    <td align="center">
-      <a href="https://github.com/leechanghyuk">
-        <img src="https://github.com/leechanghyuk.png" width="100px;" alt="leechanghyuk"/>
-        <br />
         <sub><b>박한슬</b></sub>
       </a>
       <br />
@@ -54,8 +54,8 @@ LS 전력 데이터를 활용하여 대시보드를 제작하는 팀 프로젝�
       streamlit 보조
     </td>
     <td align="center">
-      <a href="https://github.com/leechanghyuk">
-        <img src="https://github.com/leechanghyuk.png" width="100px;" alt="leechanghyuk"/>
+      <a href="https://github.com/JunKane">
+        <img src="https://github.com/JunKane.png" width="100px;" alt="JunKane"/>
         <br />
         <sub><b>양현준</b></sub>
       </a>
@@ -65,8 +65,8 @@ LS 전력 데이터를 활용하여 대시보드를 제작하는 팀 프로젝�
       **조장**
     </td>
     <td align="center">
-      <a href="https://github.com/leechanghyuk">
-        <img src="https://github.com/leechanghyuk.png" width="100px;" alt="leechanghyuk"/>
+      <a href="https://github.com/tjdud2604">
+        <img src="https://github.com/tjdud2604.png" width="100px;" alt="leechanghyuk"/>
         <br />
         <sub><b>편서영</b></sub>
       </a>
@@ -75,8 +75,8 @@ LS 전력 데이터를 활용하여 대시보드를 제작하는 팀 프로젝�
       발표
     </td>
      <td align="center">
-      <a href="https://github.com/leechanghyuk">
-        <img src="https://github.com/leechanghyuk.png" width="100px;" alt="leechanghyuk"/>
+      <a href="https://github.com/godfuf">
+        <img src="https://github.com/godfuf.png" width="100px;" alt="godfuf"/>
         <br />
         <sub><b>홍주형</b></sub>
       </a>
