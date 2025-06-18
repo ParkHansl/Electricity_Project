@@ -4,7 +4,7 @@
 
 LS 전력 데이터를 활용하여 대시보드를 제작하는 팀 프로젝트입니다.
 
-[프로젝트 대시보드 바로가기 링크]()
+[프로젝트 대시보드 바로가기 링크](https://realfinal-chm9fdqegvm2genrzvfwpw.streamlit.app/%EA%B3%BC%EA%B1%B0_%EC%A0%84%EA%B8%B0%EC%9A%94%EA%B8%88_%EB%B6%84%EC%84%9D_%EB%B3%B4%EA%B3%A0%EC%84%9C)
 
 <br>
 
