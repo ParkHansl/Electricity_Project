@@ -53,6 +53,11 @@ LS 전력 데이터를 활용하여 대시보드를 제작하는 팀 프로젝�
       데이터 분석<br />
       streamlit 보조
     </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <td align="center">
       <a href="https://github.com/JunKane">
         <img src="https://github.com/JunKane.png" width="100px;" alt="JunKane"/>
